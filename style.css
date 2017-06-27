@@ -37,8 +37,8 @@ textarea {
     width: 350px;
     height: 150px;
     padding: 12px 20px;
-    margin-right:10px;
-    margin-top:0;
+    margin-right: 10px;
+    margin-top: 0;
     box-sizing: border-box;
     border: 1px solid #eeecee;
     border-radius: 8px;
@@ -52,11 +52,11 @@ input[type=submit] {
     width: 90%;
     color: white;
     background-color: #e84c3d;
- clear: both;
+    clear: both;
 }
 
 #floating {
     float: left;
-    margin-top:15px;
-};
+    margin-top: 15px;
+}
 
